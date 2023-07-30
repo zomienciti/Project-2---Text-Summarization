@@ -1,1 +1,1 @@
-# Project-1_-Sentiment-Analysis-LSTM
+# Project 2 - Text Summarization
